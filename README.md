@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **Front End**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jtphillips215](https://github.com/jtphillips215)
 
