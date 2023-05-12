@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Taylor</h1>
-<h3 align="center">And these are my personal projects!</h3>
+<h3 align="center">And these are my personal projects:</h3>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
